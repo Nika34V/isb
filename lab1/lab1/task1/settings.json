@@ -1,0 +1,7 @@
+{
+    "key_file": "key.json",
+    "original_text_file": "original.txt",
+    "encrypted_text_file": "encrypted.txt",
+    "decrypted_text_file": "decrypted.txt",
+    "shift": 3
+}

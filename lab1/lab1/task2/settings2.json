@@ -1,0 +1,7 @@
+{
+    "cipher_text_path": "cipher_text.txt",
+    "russian_frequencies_path": "russian_letter_frequency.json",
+    "cipher_frequencies_output": "cipher_frequencies.json",
+    "mapping_output": "mapping.json",
+    "decrypted_text_output": "decrypted.txt"
+}
