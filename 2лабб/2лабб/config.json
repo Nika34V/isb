@@ -1,0 +1,6 @@
+{
+    "sources": {
+        "cpp": "sequences/cpp_sequence.txt",
+        "java": "sequences/java_sequence.txt"
+    }
+}
